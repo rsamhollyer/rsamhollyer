@@ -12,7 +12,7 @@
 <span><img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/dusk/64/000000/css3.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" width="35px"/></span>
-<span><img src="https://img.icons8.com/fluency/48/000000/gatsbyjs.png"/></span>
+<span><img src="https://img.icons8.com/dusk/64/000000/gatsbyjs.png"/></span>
 <span><img src="https://img.icons8.com/dusk/64/000000/python.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/bubbles/50/000000/react.png" width="40px"/></span>
 <span><img src="https://img.icons8.com/dusk/64/000000/github.png" width="35px"/></span>
