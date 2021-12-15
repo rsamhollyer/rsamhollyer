@@ -1,4 +1,5 @@
-<a href=https://wiki.archlinux.org><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-filled-tal-revivo.png" width="70px" height="70px"/></a>
+<a href=https://wiki.archlinux.org><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png" width=
+"100px" /></a>
 
 
 ###  This is probably enough
