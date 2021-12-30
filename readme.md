@@ -8,8 +8,6 @@
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rsamhollyer&layout=compact&theme=gruvbox)
 
-<a href=https://www.linkedin.com/in/samhollyer target='_blank'><img src="https://img.icons8.com/dusk/50/000000/linkedin--v2.png"/></a>
-
 **Languages and Tools**
 
 <span><img src="https://img.icons8.com/dusk/64/000000/linux.png" width="35px"/></span>
