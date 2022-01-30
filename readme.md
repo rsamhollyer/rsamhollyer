@@ -26,6 +26,6 @@
 <span><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-tritone-tal-revivo.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/bubbles/50/000000/console.png" width="40px"/></span>
 <span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="35px" /></span>
-<span><img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="35px"/></span>
+<span><img src="https://img.icons8.com/officel/40/000000/mysql.png" width="40px"/></span>
 <span><img src="https://github.com/nguyntony/nguyntony/blob/main/assets/sequelize.svg?raw=true" width="35px"/></span>
 
