@@ -19,6 +19,7 @@
 <span><img src="https://img.icons8.com/dusk/64/000000/python.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/dusk/50/000000/php-logo.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="35px"/></span>
+<span><img src="https://user-images.githubusercontent.com/56658634/208557811-b4407cff-f939-4978-a86e-92ad84d56be0.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/bubbles/50/000000/react.png" width="40px"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" width="35px"/></span>
 <span><img src="https://img.icons8.com/dusk/64/000000/github.png" width="35px"/></span>
@@ -28,4 +29,10 @@
 <span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="35px" /></span>
 <span><img src="https://img.icons8.com/officel/40/000000/mysql.png" width="40px"/></span>
 <span><img src="https://github.com/nguyntony/nguyntony/blob/main/assets/sequelize.svg?raw=true" width="35px"/></span>
+<span><img src="https://user-images.githubusercontent.com/56658634/208557416-1012d824-232c-4bd5-81ee-0e404b9bedeb.png" width="35px"/></span>
+<span><img src="https://user-images.githubusercontent.com/56658634/208557669-28ecdf66-3c5e-44e5-bbb2-17556a1b5f23.png" width="35px"/></span>
+
+
+
+
 
